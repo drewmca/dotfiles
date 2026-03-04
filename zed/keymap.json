@@ -27,7 +27,7 @@
   {
     "context": "(Editor && mode == full)",
     "bindings": {
-      "cmd-shift-o": null,
+      "cmd-shift-o": "file_finder::Toggle",
     },
   },
   {
